@@ -52,4 +52,4 @@ A basic to-do list application built using HTML, CSS, and JavaScript. This app a
 If you have any improvements or suggestions, feel free to fork this repository and submit a pull request!
 
 ## License
-This project is open-source under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/adityamawa/simple-todo/blob/main/LICENSE) file for details. 
